@@ -12,7 +12,7 @@ public class Array {
 
 
         for (int i=0; i< numeros.length; i++){
-            System.out.println("Digite um número " + (i+1) + ": ");
+            System.out.println("Digite um número": ");
             numeros[i] = scan.nextInt();
 
             if (i == 0) {
